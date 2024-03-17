@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sameera.xyz.me@gmail.com](mailto:sameera.xyz.me@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Next.js
 
 <a href="https://www.github.com/sameera-madushan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sameera-madushan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
