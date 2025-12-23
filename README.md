@@ -1,16 +1,19 @@
-## Hi there 👋
+### Software Engineer | Tech enthusiast | Lifelong learner | Problem solver
 
-<!--
-**sameera-madushan/sameera-madushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More on [sameeramadushan.me](https://sameeramadushan.me)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### On my blog
+
+<!-- blog starts -->
+<!-- blog ends -->
+
+More on [sameeramadushan.me/posts](https://sameeramadushan.me/posts)
+
+---
+
+<p align="center">
+  This README file is generated every 3 hours!<br>
+  Last refresh: Tuesday, 23 December, 23:29  CET
+</p>
