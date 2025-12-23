@@ -1,5 +1,5 @@
 import feedparser
-from datetime import datetime
+from datetime import datetime, timezone
 
 README_FILE = "README.md"
 RSS_FEED_URL = "https://sameeramadushan.me/rss.xml"
@@ -9,13 +9,10 @@ feed = feedparser.parse(RSS_FEED_URL)
 
 posts_md = "\n".join([f"* [{entry.title}]({entry.link})" for entry in feed.entries[:MAX_POSTS]])
 
-now = datetime.now()
+now = datetime.now(timezone.utc)
 
 day = str(int(now.strftime("%d")))
-timestamp = now.strftime(f"%A, {day} %B, %H:%M %Z")
-if not now.tzname():
-    timestamp += " CET"
-
+timestamp = now.strftime(f"%A, {day} %B, %H:%M UTC")
 
 with open(README_FILE, "r", encoding="utf-8") as f:
     readme_contents = f.read()
